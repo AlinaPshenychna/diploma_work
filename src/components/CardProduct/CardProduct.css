@@ -1,0 +1,63 @@
+.CardProduct-main {
+  background: rgb(255, 255, 255);
+  max-width: 273px;
+  display: flex;
+  justify-content: center;
+  padding-top: 37px;
+  margin: 31px 62px 31px 62px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.CardProduct-link {
+  text-decoration: none;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.CardTitle {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Price {
+  color: rgb(252, 91, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 0px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Quantity {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Delivery-status {
+  color: rgb(5, 188, 82);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Delivery-status-icon {
+  color: rgb(5, 188, 82);
+  padding-right: 12px;
+  width: 28px;
+  height: 28px;
+}

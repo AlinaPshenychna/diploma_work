@@ -1,0 +1,107 @@
+.Pdp {
+  max-width: 1200px;
+  padding: 30px;
+}
+.Pdp-container {
+  background: rgb(255, 255, 255);
+  padding:  30px 30px 30px 60px;
+  margin-top: 15px;
+}
+.Arrow-position {
+  position: relative;
+}
+.Pdp-title {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 39px;
+  letter-spacing: 0%;
+  text-align: left;
+  position: relative;
+  padding-left: 60px;
+}
+.Pdp-link {
+  text-decoration: none;
+  color: black;
+  padding-top: 30px;
+  padding-bottom: 55px;
+}
+.Arrow-title {
+  position: absolute;
+  left: 15px;
+  top: 3px;
+  font-size: 30px;
+  cursor: pointer;
+}
+.Pdp-flex {
+  display: flex;
+    padding-bottom: 70px;
+}
+.Product-img {
+  width: 400px;
+  height: 270px;
+}
+.Product-flex {
+  display: flex;
+}
+.Pdp-right-side {
+  padding-left: 75px;
+}
+.Pdp-available {
+  color: rgb(60, 215, 140);
+  font-family: Inter;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 0;
+}
+.Pdp-price {
+  color: rgb(252, 91, 0);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 0px;
+  letter-spacing: 0%;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 26px;
+}
+.Pdp-quantity {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Pdp-disc-title {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 39px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.Pdp-title-hide {
+  color: rgb(217, 217, 217);
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 39px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Pdp-discription {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: left;
+}

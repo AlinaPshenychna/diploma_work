@@ -1,0 +1,20 @@
+.Button {
+  background: rgb(68, 178, 111);
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: left;
+  border: none;
+  padding: 13px 103px;
+  margin-top: 70px;
+  position: relative;
+}
+.Button-icon {
+  color: black;
+}
+
+
+  /* margin-bottom: 210px; */

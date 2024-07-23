@@ -1,0 +1,25 @@
+.Input-flex {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  position: relative;
+}
+.Input-name {
+  background: rgb(217, 217, 217);
+  border: none;
+  margin-bottom: 46px;
+  padding-left: 19px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 5px;
+}
+.Input-name::placeholder,
+.Input-password::placeholder {
+  color: rgb(68, 178, 111);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: left;
+}

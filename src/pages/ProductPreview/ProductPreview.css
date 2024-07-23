@@ -1,0 +1,12 @@
+.ProductPreview-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.CardProduct-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.LogoProduct {
+  margin-top: 30px;
+  margin-left: 30px;
+}
